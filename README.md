@@ -33,8 +33,16 @@ Generate encryption key for the project
 php artisan key:generate
 ```
 
+Run the serve command 
+```bash
+php artisan serve
+```
+
+
 The postman collection is located within the root directory of this project
 https://github.com/SohebPatel96/ToDoApp/blob/master/ToDoList.postman_collection.json
+
+There are 4 APIs to create, read, update and delete task with appropriate validations and responses.
 
 
 # Any unit tests or similar that are associated with the code.
