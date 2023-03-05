@@ -33,6 +33,9 @@ Generate encryption key for the project
 php artisan key:generate
 ```
 
+The postman collection is located within the root directory of this project
+https://github.com/SohebPatel96/ToDoApp/blob/master/ToDoList.postman_collection.json
+
 
 # Any unit tests or similar that are associated with the code.
 
