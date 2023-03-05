@@ -1,8 +1,17 @@
 
 # Steps to setup and run the code
 
-Setup database credentials in .env file. For example:
+I am using laravel 10 which requires PHP 8 and its dependencies.
 
+Setup database credentials in .env file. In case .env file is not present, create a new .env file and copy context of .env.example into it.
+
+Run composer
+```bash
+composer install
+
+```
+
+Setup database credentials
 ```bash
 DB_DATABASE=todo
 DB_USERNAME=root
